@@ -1,0 +1,35 @@
+.twin-towers-wrapper {
+  background-image: url(public/twin-towers-911.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  min-height: 156.4vh;
+}
+
+.bloody-truth-img {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.font-rubik-maps {
+  font-family: "Rubik Maps", "Times New Roman";
+}
+
+.professor-wrapper {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.professor-video {
+  width: 95%;
+  max-width: 700px;
+  box-shadow: rgba(250, 0, 0, 0.56) 0px 22px 70px 4px;
+  border-radius: 4px;
+}
+
+.us-benefited-img {
+  width: 90%;
+  max-width: 1000px;
+}

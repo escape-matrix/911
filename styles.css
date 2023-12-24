@@ -24,7 +24,8 @@
 
 .professor-video {
   width: 95%;
-  max-width: 700px;
+  max-width: 750px;
+  height: 400px;
   box-shadow: rgba(250, 0, 0, 0.56) 0px 22px 70px 4px;
   border-radius: 4px;
 }
